@@ -9,3 +9,7 @@
 
 - [Winterbloom tools and tech](https://blog.thea.codes/winterblooms-tech-stack/)
   - [wintertools](https://github.com/wntrblm/wintertools)
+
+## Synths
+
+- [Yamaha DX7 Technical Analysis](https://ajxs.me/blog/Yamaha_DX7_Technical_Analysis.html)
