@@ -2,4 +2,4 @@
 
 _because the social bookmarking future never happened..._
 
-- [audio electronics](audio-electronics.md)
+- [audio electronics](audio_electronics.md)
