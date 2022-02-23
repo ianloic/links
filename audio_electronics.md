@@ -17,4 +17,4 @@
 
 ## Courses
 
-- [Phil's Lab: Mixed-Signal Hardware Design with KiCad](https://phils-lab-shop.fedevel.education/
+- [Phil's Lab: Mixed-Signal Hardware Design with KiCad](https://phils-lab-shop.fedevel.education/)
