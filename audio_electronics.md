@@ -14,3 +14,7 @@
 
 - [Yamaha DX7 Technical Analysis](https://ajxs.me/blog/Yamaha_DX7_Technical_Analysis.html)
 - [Yamaha DX7 exponential circuit](https://www.righto.com/2021/11/reverse-engineering-yamaha-dx7_28.html)
+
+## Courses
+
+- [Phil's Lab: Mixed-Signal Hardware Design with KiCad](https://phils-lab-shop.fedevel.education/
