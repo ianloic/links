@@ -5,6 +5,13 @@
 - [Rob Robinette's Tube Amplifier Website](https://robrobinette.com/Amp_Stuff.htm)
 - [Amp Books: Classic Circuits](https://www.ampbooks.com/mobile/classic-circuits/)
 
+## Guitar Pedals
+
+### Buffer circuits
+
+- [Beavis Audio Research: buffers](http://beavisaudio.com/techpages/buffers/)
+- [Basic Buffers on muzique.com](http://www.muzique.com/lab/buffers.htm)
+
 ## Microcontrollers
 
 - [Winterbloom tools and tech](https://blog.thea.codes/winterblooms-tech-stack/)
