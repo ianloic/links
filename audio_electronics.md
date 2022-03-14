@@ -25,3 +25,7 @@
 ## Courses
 
 - [Phil's Lab: Mixed-Signal Hardware Design with KiCad](https://phils-lab-shop.fedevel.education/)
+
+## Filters
+
+- [Filter Design and Analysis](http://sim.okawa-denshi.jp/en/Fkeisan.htm)
