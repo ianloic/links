@@ -29,3 +29,16 @@
 ## Filters
 
 - [Filter Design and Analysis](http://sim.okawa-denshi.jp/en/Fkeisan.htm)
+
+## Op Amps
+
+- [Cycfi: Op Amp Shootout](https://www.cycfi.com/projects/six-pack/op-amp-shootout/)
+- Op Amps In Small Signal Audio Design
+  - [part1](http://www.eetimes.com/document.asp?doc_id=1278805)
+  - [part2](http://www.eetimes.com/document.asp?doc_id=1278866)
+  - [part3](http://www.eetimes.com/document.asp?doc_id=1278963)
+  - [part4](http://www.eetimes.com/document.asp?doc_id=1279027)
+- [TI: Interfacing Op Amps to High-Speed DACs](https://www.ti.com/lit/an/slyt342/slyt342.pdf)
+- [Tangentsoft.net: Notes on Audio Op-Amps](https://tangentsoft.net/audio/opamps.html) (headphone amp focussed)
+- [Songbird FX: How To Choose An Op Amp For Your Audio Project](https://www.songbirdfx.com/how-to-choose-an-op-amp-for-your-audio-project/)
+- 
